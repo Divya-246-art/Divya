@@ -11,3 +11,17 @@ I am a dynamic professional with experience in **training & development, marketi
 🔹 Passionate about leveraging Python for automation and data analysis.  
 🔹 Strong background in customer engagement and business process optimization.  
 🔹 MBA graduate with expertise in **HRM, leadership, and training strategies**.  
+## ⚡ **Technical Skills**  
+- **Programming:** Python, SQL  
+- **Development Tools:** Git, Oracle, Tally, LMS  
+- **Soft Skills:** Communication, Leadership, Training & Development  
+- **Other:** Data Analysis, Research, Client Management  
+
+---
+
+## 📫 **Connect With Me!**  
+📧 Email: [divyapadhu27@gmail.com](mailto:divyapadhu27@gmail.com)  
+🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+💼 GitHub: [github.com/divyabharathi](https://github.com/divyabharathi)  
+
+✨ Thanks for visiting my GitHub profile! Feel free to explore my projects and connect with me. 🚀  
